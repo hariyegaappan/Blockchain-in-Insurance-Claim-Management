@@ -22,14 +22,14 @@ A Python-based blockchain for secure insurance claim management. It records clai
    - Index and timestamp  
    - List of claims and status updates  
    - Previous block's hash  
-   - Current block’s hash and nonce  
+   - Current block's hash and nonce  
 
 5. **Blockchain Validation** ensures all hashes are correct and the chain is untampered.
 
 ## 📥 Installation & Usage
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/Blockchain-in-Insurance-Claim-Management.git
+git clone https://github.com/hariyegaappan/Blockchain-in-Insurance-Claim-Management.git
 cd Blockchain-in-Insurance-Claim-Management
 ```
 
